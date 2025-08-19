@@ -114,8 +114,8 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
   They help maintain code quality by automatically running tests and checks before merging changes. This reduces bugs, speeds up development, and ensures new features or fixes are delivered to users quickly and reliably without downtime. For a project like an Airbnb clone, CI/CD guarantees that updates to critical features (like booking or payments) are safe and consistent.  
 
 * **Tools that can be used**:  
-  * **GitHub Actions** or **GitLab CI/CD** → for automating build, test, and deployment workflows.  
-  * **Docker** → for containerizing the app to ensure it runs consistently across different environments.  
-  * **Kubernetes** → for scaling and managing containerized deployments in production.  
-  * **Jenkins** → an alternative for highly customizable CI/CD automation.  
-  * **AWS CodePipeline / Azure DevOps / CircleCI** → cloud-based CI/CD solutions that integrate with hosting environments.
+  * **GitHub Actions** or **GitLab CI/CD**: for automating build, test, and deployment workflows.  
+  * **Docker**: for containerizing the app to ensure it runs consistently across different environments.  
+  * **Kubernetes**: for scaling and managing containerized deployments in production.  
+  * **Jenkins**: an alternative for highly customizable CI/CD automation.  
+  * **AWS CodePipeline / Azure DevOps / CircleCI**: cloud-based CI/CD solutions that integrate with hosting environments.
